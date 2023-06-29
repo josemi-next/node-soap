@@ -1,6 +1,6 @@
 {
   "name": "soap-improved",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal node SOAP client",
   "engines": {
     "node": ">=14.0.0"
@@ -15,6 +15,7 @@
     "formidable": "3.5.0",
     "get-stream": "7.0.0",
     "lodash": "4.17.21",
+    "sax": "0.6",
     "strip-bom": "3.0.0",
     "uuid": "9.0.0",
     "whatwg-mimetype": "3.0.0",
